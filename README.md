@@ -21,3 +21,4 @@
 - npm init
 
 keknya gitu doang
+(kalo mau copy sebagian codenya, pastiin Library berikut udah diinstall: typeorm reflect-metadata pg & file .env dengan isinya)
